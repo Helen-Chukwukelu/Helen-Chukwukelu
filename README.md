@@ -1,6 +1,10 @@
 # 💫 About Me:
 I'm currently working on some devOps/Cloud projects. So far, I have Implemented a Continuous Integration/Continuous Deployment (CI/CD) pipeline that significantly improves the speed and reliability of software delivery. She has managed cloud infrastructures, resulting in significant cost savings, improved efficiency and reliability and as well demonstrated her expertise in carrying out zero downtime deployments. 
-Helen has a passion for driving innovation and building lasting solutions in SaaS, Cloud, and devOps implementation.<br>I look forward to collaborating on open-source projects and creating more technical contents<br>I'm a lifelong learner 🤗💻
+Helen has a passion for driving innovation and building lasting solutions in SaaS, Cloud, and devOps implementation.
+
+<br>I look forward to collaborating on open-source projects and creating more technical contents
+
+<br>I'm a lifelong learner 🤗💻
 
 
 ## 🌐 Socials:
