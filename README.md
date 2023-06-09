@@ -1,5 +1,5 @@
 # 💫 About Me:
-Helen is an avid devOps Engineer with a strong background and passion in technology. My focus has been on implementing Continuous Integration/Continuous Deployment (CI/CD) pipelines, resulting in notable enhancements in deployment speed and reliability. I have effectively overseen cloud infrastructures, implementing automation for deployments, thereby achieving substantial cost savings, improved efficiency, and enhanced reliability.
+An avid devOps Engineer with a strong background and passion in technology. My focus has been on implementing Continuous Integration/Continuous Deployment (CI/CD) pipelines, resulting in notable enhancements in deployment speed and reliability. I have effectively overseen cloud infrastructures, implementing automation for deployments, thereby achieving substantial cost savings, improved efficiency, and enhanced reliability.
 
 Throughout my experience, I have demonstrated proficiency in executing zero downtime deployments of applications. By collaborating closely with Developers and testers, I have ensured streamlined CI/CD processes for both enterprise SaaS and on-premise applications. Furthermore, I possess extensive familiarity with a diverse range of IT security and DevOps tools.
 
