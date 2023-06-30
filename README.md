@@ -4,7 +4,9 @@ An ardent DevOps Engineer with a strong background and passion for technology. M
 Throughout my experience, I have demonstrated proficiency in executing zero-downtime deployments of applications. By collaborating closely with Developers and testers, I have ensured streamlined CI/CD processes for both enterprise SaaS and on-premise applications. Furthermore, I possess extensive familiarity with a diverse range of IT security and DevOps tools.
 
 💻 I look forward to collaborating on open-source projects and creating more technical content.
+
 🌟 Dedicated to streamlining a seamless delivery of quality software
+
 🎯 I'm a lifelong learner 🤗💻
 
 
