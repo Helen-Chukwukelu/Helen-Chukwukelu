@@ -5,7 +5,7 @@ Throughout my experience, I have demonstrated proficiency in executing zero-down
 
 💻 I look forward to collaborating on open-source projects and creating more technical content.
 
-🌟 Dedicated to streamlining a seamless delivery of quality software
+🌟 Dedicated to streamlining a seamless delivery of quality softwares
 
 🎯 I'm a lifelong learner 🤗💻
 
